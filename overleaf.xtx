@@ -1,0 +1,268 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.2 (16/9/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Abhishek}{Juneja}{ \urlstyle{same}\href{http://abhishekjuneja.me}{abhishekjuneja.me}
+\\
+\href{mailto:abhishek.juneja145@gmail.com}{abhishek.juneja145@gmail.com} | +91 9870153987 | \href{https://github.com/darth-dodo}{Github: darth-dodo}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links}
+Github:// \href{https://github.com/darth-dodo}{\bf darth-dodo} \\
+LinkedIn://  \href{https://www.linkedin.com/in/abhishek-juneja}{\bf abhishek-juneja} \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Programming}
+\location{Languages:}
+Python \textbullet{}   Ruby \textbullet{} Javascript \\
+\location{Databases:}
+Postgres \textbullet{} MySQL \textbullet{} \\
+MongoDB \textbullet{} Redis \textbullet{} Elasticsearch  \textbullet{} CouchDB \\
+\location{Familiar:}
+Golang \textbullet{} Elixir/Phoenix \textbullet{} Node \textbullet{} GraphQL \textbullet{} React \\
+\subsection{Frameworks/Tools}
+Django \textbullet{} Django REST Framework \textbullet{} \\
+Flask \textbullet{} Ruby on Rails \textbullet{} AWS \textbullet{} Heroku \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Personal}
+% \subsection{Graduate}
+% Advanced Machine Learning \\
+% Open Source Software Engineering \\
+% Advanced Interactive Graphics \\
+% Compilers + Practicum \\
+% Cloud Computing \\
+% Evolutionary Computation \\
+% Defending Computer Networks \\
+% Machine Learning \\
+% \sectionsep
+
+% \subsection{Undergraduate}
+% Information Retrieval \\
+% Operating Systems \\
+% Artificial Intelligence + Practicum \\
+% Functional Programming \\
+% Computer Graphics + Practicum \\
+% {\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
+% Unix Tools and Scripting \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education}
+
+\subsection{University of Mumbai}
+\descript{Bachelor of Engineering in Computer Science}
+\location{Aug 2014 | Mumbai, India}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.66\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{\urlstyle{same}\href{http://bizongo.com}{Bizongo}}
+\descript{| Senior Software Engineer }
+\location{Feb 2019 - Present | Mumbai, India}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Technical gap analysis, rearchitect and implement the in house product Catalog Management System
+\item Building smart pricing and client/vendor quotations management being using custom Machine Learning models
+\item Conduct engineering interviews to grow the team and mentor younger engineers by helping in code structuring and architectural audits
+\end{tightemize}
+\sectionsep
+
+\runsubsection{\urlstyle{same}\href{http://ithaka.travel}{Ithaka - Personalised Travel Planning}}
+\descript{| Senior Software Engineer }
+\location{Aug 2018 - Feb 2019 | Mumbai, India}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item As the Senior Engineer, I was responsible for building Backend microservices primarily across Python and supporting across Node and Golang
+\item Designed and built Python and Django applications from scratch ranging from REST APIs to data pipelines to interactive dashboards
+\item Helped the company scale operations from 3 to 6 countries by reengineering core services
+\item Mentored junior engineers wrt skills, growth and feature development
+\end{tightemize}
+\sectionsep
+
+\runsubsection{\urlstyle{same}\href{http://bizongo.com}{Bizongo}}
+\descript{| Software Engineer - II }
+\location{Feb 2018 – Aug 2018 | Mumbai, India}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Core Engineer working on flagship Product by understanding business requirements and churning features using Ruby and RoR
+\item Designed and built business specific Location and Role Based Access Control system from scratch
+\end{tightemize}
+\sectionsep
+
+\runsubsection{\urlstyle{same}\href{https://www.laughguru.com/}{Laughter Guru}}
+\descript{| Backend Developer }
+\location{Mar 2017 – Feb 2018 | Mumbai, India}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Core Backend Developer working on Sales CRM and Learning Management System for a bootstrapped EdTech Startup using Django and DRF
+\item Developed entire OAuth, gamification and currency management modules
+\item Created Finance CRM module keep track of Sales and Payment Cycle thus increasing user efficiency by 300\%
+\item Automation of business and technical processes using third-party API integrations eg. Autobus (DevOps), AfterShip (Logistics), Exotel (Telephony), Vimeo, Sendgrid, etc.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{\urlstyle{same}\href{https://www.haptik.ai}{Haptik Inc.}}
+\descript{| Full Stack Developer }
+\location{Oct 2015 – Apr 2016 | Mumbai, India}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Develop features for a Chat based Personal Assistant using Python, MySQL, Javascript, Django framework.
+\item  Integrate third party APIs for enhancing Product offerings.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{NextGen Clearning Pvt. Ltd.}
+\descript{| PL/SQL Developer }
+\location{Sept 2014 – Sept 2015 | Mumbai, India}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Built Oracel PL/SQL objects for Data Clearing House
+\item Develop workflows for two major clients bringing in 15\% of the annual revenue
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Research}
+% \runsubsection{Cornell Robot Learning Lab}
+% \descript{| Researcher}
+% \location{Jan 2014 – Jan 2015 | Ithaca, NY}
+% Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.
+% \sectionsep
+
+% \runsubsection{Cornell Phonetics Lab}
+% \descript{| Head Undergraduate Researcher}
+% \location{Mar 2012 – May 2013 | Ithaca, NY}
+% Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research.
+% \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Awards}
+% \begin{tabular}{rll}
+% 2014	     & top 52/2500  & KPCB Engineering Fellow\\
+% 2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
+% 2013	     & National  & Jump Trading Challenge Finalist\\
+% 2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
+% 2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
+% 2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
+% \end{tabular}
+% \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Publications}
+% \renewcommand\refname{\vskip -1.5em} % Couldn't get this working from the .cls file
+% \bibliographystyle{abbrv}
+% \bibliography{publications}
+% \nocite{*}
+
+\end{minipage}
+\end{document}  \documentclass[]{article}
