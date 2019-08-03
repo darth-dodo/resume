@@ -185,7 +185,7 @@ Metabase
 \end{tightemize}
 \sectionsep
 
-\runsubsection{\urlstyle{same}\href{http://bizongo.com}{Bizongo}}
+\runsubsection{\urlstyle{same}\href{https://www.bizongo.com}{Bizongo}}
 \descript{| Software Engineer - II }
 \location{Feb 2018 – Aug 2018 | Mumbai, India}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
@@ -217,7 +217,7 @@ Metabase
 \end{tightemize}
 \sectionsep
 
-\runsubsection{NextGen Clearning Pvt. Ltd.}
+\runsubsection{NextGen Clearing Pvt. Ltd.}
 \descript{| PL/SQL Developer }
 \location{Sept 2014 – Sept 2015 | Mumbai, India}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
