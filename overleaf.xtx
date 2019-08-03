@@ -176,7 +176,7 @@ Metabase
 \runsubsection{\urlstyle{same}\href{https://www.ithaka.travel}{Ithaka - Personalised Travel Planning}}
 \descript{| Senior Software Engineer }
 \location{Aug 2018 - Feb 2019 | Mumbai, India}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Responsible for building Backend microservices primarily across Python and supporting across Node and Golang
 \item Designed and built Python and Django applications from scratch ranging from REST APIs to data pipelines to interactive dashboards
@@ -188,7 +188,7 @@ Metabase
 \runsubsection{\urlstyle{same}\href{http://bizongo.com}{Bizongo}}
 \descript{| Software Engineer - II }
 \location{Feb 2018 – Aug 2018 | Mumbai, India}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Core Engineer working on flagship Product by understanding business requirements and churning features using Ruby and RoR
 \item Designed and built business specific Location and Role Based Access Control system from scratch
@@ -198,7 +198,7 @@ Metabase
 \runsubsection{\urlstyle{same}\href{https://www.laughguru.com/}{Laughter Guru}}
 \descript{| Backend Developer }
 \location{Mar 2017 – Feb 2018 | Mumbai, India}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Core Backend Developer working on Sales CRM and Learning Management System for a bootstrapped EdTech Startup using Django and DRF
 \item Developed entire OAuth, Gamification and Currency management modules
@@ -210,7 +210,7 @@ Metabase
 \runsubsection{\urlstyle{same}\href{https://www.haptik.ai}{Haptik Inc.}}
 \descript{| Full Stack Developer }
 \location{Oct 2015 – Apr 2016 | Mumbai, India}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Develop features for a Chat based Personal Assistant using Python, MySQL, Javascript, Django framework.
 \item  Integrate third party APIs for enhancing Product offerings.
@@ -220,7 +220,7 @@ Metabase
 \runsubsection{NextGen Clearning Pvt. Ltd.}
 \descript{| PL/SQL Developer }
 \location{Sept 2014 – Sept 2015 | Mumbai, India}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Built Oracle PL/SQL objects for Data Clearing House
 \item Develop workflows for two major clients bringing in 15\% of the annual revenue
