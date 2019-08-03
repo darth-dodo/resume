@@ -162,23 +162,23 @@ Metabase
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{\urlstyle{same}\href{http://bizongo.com}{Bizongo}}
+\runsubsection{\urlstyle{same}\href{https://www.bizongo.com}{Bizongo}}
 \descript{| Senior Software Engineer }
 \location{Feb 2019 - Present | Mumbai, India}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Technical gap analysis, rearchitect and implement the in house product Catalog Management System
-\item Building smart pricing and client/vendor quotations management being using custom Machine Learning models
+\item Building smart pricing and client/vendor quotations management using custom Machine Learning models
 \item Conduct engineering interviews to grow the team and mentor younger engineers by helping in code structuring and architectural audits
 \end{tightemize}
 \sectionsep
 
-\runsubsection{\urlstyle{same}\href{http://ithaka.travel}{Ithaka - Personalised Travel Planning}}
+\runsubsection{\urlstyle{same}\href{https://www.ithaka.travel}{Ithaka - Personalised Travel Planning}}
 \descript{| Senior Software Engineer }
 \location{Aug 2018 - Feb 2019 | Mumbai, India}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item As the Senior Engineer, I was responsible for building Backend microservices primarily across Python and supporting across Node and Golang
+\item Responsible for building Backend microservices primarily across Python and supporting across Node and Golang
 \item Designed and built Python and Django applications from scratch ranging from REST APIs to data pipelines to interactive dashboards
 \item Helped the company scale operations from 3 to 6 countries by reengineering core services
 \item Mentored junior engineers wrt skills, growth and feature development
@@ -201,7 +201,7 @@ Metabase
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Core Backend Developer working on Sales CRM and Learning Management System for a bootstrapped EdTech Startup using Django and DRF
-\item Developed entire OAuth, gamification and currency management modules
+\item Developed entire OAuth, Gamification and Currency management modules
 \item Created Finance CRM module keep track of Sales and Payment Cycle thus increasing user efficiency by 300\%
 \item Automation of business and technical processes using third-party API integrations eg. Autobus (DevOps), AfterShip (Logistics), Exotel (Telephony), Vimeo, Sendgrid, etc.
 \end{tightemize}
@@ -222,7 +222,7 @@ Metabase
 \location{Sept 2014 – Sept 2015 | Mumbai, India}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Built Oracel PL/SQL objects for Data Clearing House
+\item Built Oracle PL/SQL objects for Data Clearing House
 \item Develop workflows for two major clients bringing in 15\% of the annual revenue
 \end{tightemize}
 \sectionsep
