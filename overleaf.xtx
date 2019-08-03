@@ -58,14 +58,14 @@
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+% \lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Abhishek}{Juneja}{ \urlstyle{same}\href{http://abhishekjuneja.me}{abhishekjuneja.me}
+\namesection{Abhishek}{Juneja}{ \urlstyle{same}\href{https://abhishekjuneja.me}{abhishekjuneja.me}
 \\
 \href{mailto:abhishek.juneja145@gmail.com}{abhishek.juneja145@gmail.com} | +91 9870153987 | \href{https://github.com/darth-dodo}{Github: darth-dodo}
 }
@@ -84,7 +84,34 @@
 
 \section{Links}
 Github:// \href{https://github.com/darth-dodo}{\bf darth-dodo} \\
-LinkedIn://  \href{https://www.linkedin.com/in/abhishek-juneja}{\bf abhishek-juneja} \\
+LinkedIn://  \href{https://www.linkedin.com/in/abhishek-juneja}{\bf abhishek-juneja}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Personal Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Personal Projects}
+
+\subsection{\MakeLowercase{{\href{{https://abhishekjuneja.me/gringotts-backend/}}{\MakeUppercase{Gringotts}}}}}
+% \subsection{\href{https://abhishekjuneja.me/gringotts-backend/}{Gringotts}}
+\location{A Personal Expense Management System in form of a Progressive Web Application using Ruby, Ruby on Rails, React, Metabase and Heroku}
+\sectionsep
+
+\subsection{\MakeLowercase{{\href{{https://abhishekjuneja.me/hustlers-den/}}{\MakeUppercase{Hustlers Den}}}}}
+\location{Knowledge resource aggregation for teams built using Django, DRF, Swagger and Heroku}
+\sectionsep
+
+\subsection{\MakeLowercase{{\href{{https://abhishekjuneja.me/discuss-it/}}{\MakeUppercase{Discuss - It}}}}}
+\location{Reddit clone in Elixir and Phoenix having OAuth and Websockets}
+\sectionsep
+
+\subsection{Sous Chef}
+\location{Fitness goals, Recipes, Ingredients and Mealplan management system using Django, DRF, Swagger and Heroku}
+\sectionsep
+
+\subsection{\MakeLowercase{{\href{{https://abhishekjuneja.me/tgif-with-flask/}}{\MakeUppercase{TGIF with Flask}}}}}
+\location{Tutorial for teaching colleagues basics of Python and Flask for a TGIF session}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -97,38 +124,16 @@ LinkedIn://  \href{https://www.linkedin.com/in/abhishek-juneja}{\bf abhishek-jun
 Python \textbullet{}   Ruby \textbullet{} Javascript \\
 \location{Databases:}
 Postgres \textbullet{} MySQL \textbullet{} \\
-MongoDB \textbullet{} Redis \textbullet{} Elasticsearch  \textbullet{} CouchDB \\
+MongoDB \textbullet{} Redis \textbullet{} Elasticsearch \\
 \location{Familiar:}
 Golang \textbullet{} Elixir/Phoenix \textbullet{} Node \textbullet{} GraphQL \textbullet{} React \\
 \subsection{Frameworks/Tools}
 Django \textbullet{} Django REST Framework \textbullet{} \\
-Flask \textbullet{} Ruby on Rails \textbullet{} AWS \textbullet{} Heroku \\
+Flask \textbullet{} Ruby on Rails \textbullet{} AWS \textbullet{} Heroku \textbullet{}  \\
+Metabase
+\\
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Personal}
-% \subsection{Graduate}
-% Advanced Machine Learning \\
-% Open Source Software Engineering \\
-% Advanced Interactive Graphics \\
-% Compilers + Practicum \\
-% Cloud Computing \\
-% Evolutionary Computation \\
-% Defending Computer Networks \\
-% Machine Learning \\
-% \sectionsep
-
-% \subsection{Undergraduate}
-% Information Retrieval \\
-% Operating Systems \\
-% Artificial Intelligence + Practicum \\
-% Functional Programming \\
-% Computer Graphics + Practicum \\
-% {\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-% Unix Tools and Scripting \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
