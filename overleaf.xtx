@@ -86,6 +86,25 @@
 Github:// \href{https://github.com/darth-dodo}{\bf darth-dodo} \\
 LinkedIn://  \href{https://www.linkedin.com/in/abhishek-juneja}{\bf abhishek-juneja}
 \sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Programming}
+\location{Languages:}
+Python \textbullet{}   Ruby \textbullet{} Javascript \\
+\location{Databases:}
+Postgres \textbullet{} MySQL \textbullet{} \\
+MongoDB \textbullet{} Redis \textbullet{} Elasticsearch \\
+\location{Familiar:}
+Golang \textbullet{} Elixir/Phoenix \textbullet{} Node \textbullet{} GraphQL \textbullet{} React \\
+\subsection{Frameworks/Tools}
+Django \textbullet{} Django REST Framework \textbullet{} \\
+Flask \textbullet{} Ruby on Rails \textbullet{} AWS \textbullet{} Heroku \textbullet{}  \\
+Metabase
+\\
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Personal Projects
@@ -113,27 +132,6 @@ LinkedIn://  \href{https://www.linkedin.com/in/abhishek-juneja}{\bf abhishek-jun
 \subsection{\MakeLowercase{{\href{{https://abhishekjuneja.me/tgif-with-flask/}}{\MakeUppercase{TGIF with Flask}}}}}
 \location{Tutorial for teaching colleagues basics of Python and Flask for a TGIF session}
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SKILLS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Skills}
-\subsection{Programming}
-\location{Languages:}
-Python \textbullet{}   Ruby \textbullet{} Javascript \\
-\location{Databases:}
-Postgres \textbullet{} MySQL \textbullet{} \\
-MongoDB \textbullet{} Redis \textbullet{} Elasticsearch \\
-\location{Familiar:}
-Golang \textbullet{} Elixir/Phoenix \textbullet{} Node \textbullet{} GraphQL \textbullet{} React \\
-\subsection{Frameworks/Tools}
-Django \textbullet{} Django REST Framework \textbullet{} \\
-Flask \textbullet{} Ruby on Rails \textbullet{} AWS \textbullet{} Heroku \textbullet{}  \\
-Metabase
-\\
-\sectionsep
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
