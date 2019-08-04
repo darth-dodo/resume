@@ -114,7 +114,7 @@ Metabase
 
 \subsection{\MakeLowercase{{\href{{https://abhishekjuneja.me/gringotts-backend/}}{\MakeUppercase{Gringotts}}}}}
 % \subsection{\href{https://abhishekjuneja.me/gringotts-backend/}{Gringotts}}
-\location{A Personal Expense Management System in form of a Progressive Web Application using Ruby, Ruby on Rails, React, Metabase and Heroku}
+\location{Personal Expense Management System in form of a Progressive Web Application using Ruby, Ruby on Rails, React, Metabase and Heroku}
 \sectionsep
 
 \subsection{\MakeLowercase{{\href{{https://abhishekjuneja.me/hustlers-den/}}{\MakeUppercase{Hustlers Den}}}}}
@@ -165,9 +165,9 @@ Metabase
 \location{Feb 2019 - Present | Mumbai, India}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Technical gap analysis, rearchitect and implement the in house product Catalog Management System
-\item Building smart pricing and client/vendor quotations management using custom Machine Learning models
-\item Conduct engineering interviews to grow the team and mentor younger engineers by helping in code structuring and architectural audits
+\item Technical gap analysis, rearchitect and built the Catalog Management System to provide metric uniformity and eliminate data redundancy
+\item Building smart pricing and quotations management using custom Machine Learning models to reduce Lead conversion process from 28 days to real time
+\item Conduct engineering interviews to grow the team, mentor younger engineers by helping in code structuring and architectural audits
 \end{tightemize}
 \sectionsep
 
@@ -176,9 +176,10 @@ Metabase
 \location{Aug 2018 - Feb 2019 | Mumbai, India}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Responsible for building Backend microservices primarily across Python and supporting across Node and Golang
+\item Built and maintained Backend microservices primarily across Python and supporting across Node and Golang
+\item Built Django based CMS to move business processes from Google Drive/Sheets to in house Backend Services thus reducing time to production from about 14 days to a few minutes
+\item Helped the company scale operations from 3 to 6 countries by reengineering core services while maintaining zero downtime
 \item Designed and built Python and Django applications from scratch ranging from REST APIs to data pipelines to interactive dashboards
-\item Helped the company scale operations from 3 to 6 countries by reengineering core services
 \item Mentored junior engineers wrt skills, growth and feature development
 \end{tightemize}
 \sectionsep
@@ -188,7 +189,7 @@ Metabase
 \location{Feb 2018 – Aug 2018 | Mumbai, India}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Core Engineer working on flagship Product by understanding business requirements and churning features using Ruby and RoR
+\item Implemented several features using Ruby and RoR while working on flagship Product by understanding business requirements and product mandates
 \item Designed and built business specific Location and Role Based Access Control system from scratch
 \end{tightemize}
 \sectionsep
@@ -198,10 +199,10 @@ Metabase
 \location{Mar 2017 – Feb 2018 | Mumbai, India}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Core Backend Developer working on Sales CRM and Learning Management System for a bootstrapped EdTech Startup using Django and DRF
+\item Core Backend Developer worked on Sales CRM and Learning Management System for a bootstrapped EdTech Startup using Django and DRF
 \item Developed entire OAuth, Gamification and Currency management modules
 \item Created Finance CRM module keep track of Sales and Payment Cycle thus increasing user efficiency by 300\%
-\item Automation of business and technical processes using third-party API integrations eg. Autobus (DevOps), AfterShip (Logistics), Exotel (Telephony), Vimeo, Sendgrid, etc.
+\item Automated business and technical processes using third-party API integrations eg. Autobus (DevOps), AfterShip (Logistics), Exotel (Telephony), Vimeo, Sendgrid, etc. and improved overall organization efficiency
 \end{tightemize}
 \sectionsep
 
@@ -210,8 +211,8 @@ Metabase
 \location{Oct 2015 – Apr 2016 | Mumbai, India}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Develop features for a Chat based Personal Assistant using Python, MySQL, Javascript, Django framework.
-\item  Integrate third party APIs for enhancing Product offerings.
+\item Developed features for a Chat based Personal Assistant using Python, MySQL, Javascript, Django framework.
+\item Integrated third party APIs for enhancing Product offerings.
 \end{tightemize}
 \sectionsep
 
@@ -221,7 +222,7 @@ Metabase
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Built Oracle PL/SQL objects for Data Clearing House
-\item Develop workflows for two major clients bringing in 15\% of the annual revenue
+\item Developed workflows for two major clients bringing in 15\% of the annual revenue
 \end{tightemize}
 \sectionsep
 
