@@ -162,12 +162,12 @@ Metabase
 \section{Experience}
 \runsubsection{\urlstyle{same}\href{https://www.bizongo.com}{Bizongo}}
 \descript{| Senior Software Engineer }
-\location{Feb 2019 - Present | Mumbai, India}
+\location{Feb 2019 - Sept 2019 | Mumbai, India}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Technical gap analysis, rearchitect and built the Catalog Management System to provide metric uniformity and eliminate data redundancy
-\item Building smart pricing and quotations management using custom Machine Learning models to reduce Lead conversion process from 28 days to real time
-\item Conduct engineering interviews to grow the team, mentor younger engineers by helping in code structuring and architectural audits
+\item Built smart quotations management and integrated custom Machine Learning models to reduce Lead conversion process from 28 days to real time
+\item Conducted engineering interviews to grow the team, mentored younger engineers by helping with code structuring and architectural audits
 \end{tightemize}
 \sectionsep
 
